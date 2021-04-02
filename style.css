@@ -1,0 +1,82 @@
+body{background-color:white;}
+h1{color:orchid; background-color:rebeccapurple;}
+h3{color:rosybrown}
+.header{display: flex;
+justify-content: space-between;
+}
+.menu{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:pink;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color:white;
+}
+body{
+    background-color: white;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+}
+.grid img{
+    display:flex;
+    flex-wrap:wrap;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.camel{
+    border: 2px solid pink;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 500px;
+padding: 50px;
+background-color:white;
+}
+.chameleon{
+    border: 2px solid pink;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:white;
+}
+.pigeon{
+    border: 2px solid pink;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:white;
+}
+.bear{
+    border: 2px solid pink;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:white;
+}
+.cicada{
+    border: 2px solid pink;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:white;
+}
+.panda{
+    border: 2px solid pink;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:white;
+}
